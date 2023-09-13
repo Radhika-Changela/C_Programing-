@@ -1,4 +1,4 @@
-// THis program is written for finding the value of x using do....while loop.
+// This program is written to find the value of x using a do...while loop.
 // where x=a/(b-c)
 #include <stdio.h>
 int main(){
