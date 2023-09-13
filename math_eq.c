@@ -1,4 +1,4 @@
-// THis program is written for finding the value of x.
+//This program is written to find the value of x.
 // where x=a/(b-c)
 #include <stdio.h>
 int main(){
