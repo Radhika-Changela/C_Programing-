@@ -1,4 +1,4 @@
-// This program is written for multiplication table.
+// This program is written to generate a multiplication table.
 #include <stdio.h>
 int main(){
     int a,b,c;
