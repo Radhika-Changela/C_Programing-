@@ -1,4 +1,4 @@
-// this program is written for the equation of line in form of ax+by=c.
+// This program is written to solve the equation of a line in the form of ax + by = c.
 #include <stdio.h>
 int main(){
     int a,b,c;
