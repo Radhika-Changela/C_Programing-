@@ -1,5 +1,5 @@
-//This program is written to find the value of x.
-// where x=a/(b-c)
+// This program is written to find the value of x.
+// where x=a/(b-c).
 #include <stdio.h>
 int main(){
     float a,b,c;
