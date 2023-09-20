@@ -1,4 +1,4 @@
-//This program is written to add two integers.
+// This program is written to add two integers.
 #include <stdio.h>
 int main(){
     int a , b ,c ;
