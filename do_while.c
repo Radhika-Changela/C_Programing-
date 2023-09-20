@@ -5,7 +5,7 @@ int main(){
     float a,b,c;
     float x;
 do{
-    printf("Give the value of variables a , b and c : ");
+    printf("\nGive the value of variables a , b and c : ");
     scanf("%f,%f,%f",&a,&b,&c);
 
     if(b!=c){
